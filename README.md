@@ -26,26 +26,26 @@ git cclone https://github.com/rust-unofficial/awesome-rust.git
 
 ### curl 
 ```json
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ycvbcvfu/git-cclone/master/script/install.sh)"
+sudo bash -c "$(curl -fsSL https://gitee.com/ryan-bin/git-cclone/raw/master/script/install.sh)"
 ```
 
 
 ### wget 
 
 ```json
-sudo bash -c "$(wget https://raw.githubusercontent.com/ycvbcvfu/git-cclone/master/script/install.sh -O -)"
+sudo bash -c "$(wget https://gitee.com/ryan-bin/git-cclone/raw/master/script/install.sh -O -)"
 ```
 
 ## 卸载
 
 ### curl 
 ```json
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ycvbcvfu/git-cclone/master/script/uninstall.sh)"
+sudo bash -c "$(curl -fsSL https://gitee.com/ryan-bin/git-cclone/raw/master/script/uninstall.sh)"
 ```
 
 
 ### wget 
 
 ```json
-sudo bash -c "$(wget https://raw.githubusercontent.com/ycvbcvfu/git-cclone/master/script/uninstall.sh -O -)"
+sudo bash -c "$(wget https://gitee.com/ryan-bin/git-cclone/raw/master/script/uninstall.sh -O -)"
 ```

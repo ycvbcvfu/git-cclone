@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url="https://raw.githubusercontent.com/ycvbcvfu/git-cclone/master/git-cclone.sh"
+url="https://gitee.com/ryan-bin/git-cclone/raw/master/git-cclone.sh"
 path="/usr/local/bin"
 save="${path}/git-cclone"
 
